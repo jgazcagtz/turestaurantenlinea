@@ -95,7 +95,7 @@ header nav a:hover {
 }
 
 .feature img {
-  max-width: 100%;
+  max-width: 50%;
   border-radius: 15px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
   flex: 1 1 40%;
@@ -195,7 +195,7 @@ footer button:hover {
 
   .feature img,
   .feature-text {
-    flex: 1 1 100%;
+    flex: 1 1 50%;
   }
 
   header nav {
